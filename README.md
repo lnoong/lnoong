@@ -11,4 +11,4 @@
 
 ![Lnoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnoong&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnoong&layout=compact)](https://github.com/lnoong/github-readme-stats)
 
-<embed src="files/项目集.pdf" width="600" height="400">
+<embed src="projects.pdf" width="600" height="400">
