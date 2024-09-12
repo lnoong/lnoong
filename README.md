@@ -8,8 +8,4 @@
 ![Lnoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnoong&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnoong&layout=compact)](https://github.com/lnoong/github-readme-stats)
 
 <!-- SKILL -->
-
-- ## [**项目集PDF**](projects.pdf)
-
-
-
+- ## [**项目集PDF**](/files/projects.pdf)
