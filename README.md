@@ -8,15 +8,8 @@
 ![Lnoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnoong&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnoong&layout=compact)](https://github.com/lnoong/github-readme-stats)
 
 <!-- SKILL -->
-<details open>
- <summary> 😇 <b>My ProjectExperience</b>: </summary>
 
-<a align="center" href="https://github.com/lnoong/ProjectExperience" ><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=lnoong&repo=ProjectExperience&theme=tokyonight"></a>
-
-
-
-</details>
-
+- ## [**项目集PDF**](projects.pdf)
 
 
 
