@@ -6,6 +6,3 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:lnoong@outlook.com)
 <!-- OVERVIEW -->
 ![Lnoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnoong&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnoong&layout=compact)](https://github.com/lnoong/github-readme-stats)
-
-<!-- SKILL -->
-- ## [**项目集PDF**](/files/projects.pdf)
